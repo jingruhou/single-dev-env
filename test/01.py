@@ -1,1 +1,0 @@
-print("EPNC-2025-HJR")
